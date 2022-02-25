@@ -1,14 +1,14 @@
 {
   "expo": {
-    "name": "FunSkills",
-    "slug": "FunSkills",
+    "name": "FunSkills1",
+    "slug": "FunSkills1",
     "version": "1.0.0",
-    "orientation": "defaultexp",
-    "icon": ".",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
     "splash": {
-      "image": "",
+      "image": "./assets/splash.png",
       "resizeMode": "contain",
-      "backgroundColor": "#000000"
+      "backgroundColor": "#ffffff"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
@@ -22,7 +22,7 @@
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#000000"
+        "backgroundColor": "#FFFFFF"
       }
     },
     "web": {
